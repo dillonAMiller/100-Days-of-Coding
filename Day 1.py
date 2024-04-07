@@ -6,4 +6,5 @@ print("this is a test")
 # type in a username and password and check the typed in variables against the stored
 # usernames and passwords
 username = input("What is your username?")
+print(len(username))
 

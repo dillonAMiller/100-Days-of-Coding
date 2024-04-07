@@ -5,11 +5,16 @@ username = input("What is your username?")
 password = input("What is your password?")
 
 print("Type your username and password")
-inputUsername = input("Username:")
-inputPassword = input("Password:")
+#inputUsername = input("Username:")
+#inputPassword = input("Password:")
 
-if(username == inputUsername
+if username == input("Username:") and password == input("Password:"):
    print("login successful!")
-   else)
+else:
+   print("Username not found")
+
+
+
+      
 
 
